@@ -1,6 +1,5 @@
 # wk4-project
 
-# project-4-hello-world-Jenkins
 
 ## Description
 We were fimilarized with jenkins through this project where we
